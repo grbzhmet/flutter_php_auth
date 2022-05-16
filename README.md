@@ -24,7 +24,7 @@ Easy way to login with php
 
 ### Used technologies
 
-* [Flutter (2.10.1)](https://flutter.dev/)
+* [Flutter (3.0)](https://flutter.dev/)
 * [Material Design](https://material.io/)
 * [VS Code](https://code.visualstudio.com/)
 * [Dart](https://dart.dev/)
